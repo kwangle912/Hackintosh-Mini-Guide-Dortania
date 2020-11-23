@@ -1,4 +1,4 @@
-# Hackintosh-Mini-Guide-Dortania# Hackintosh-Mini-Guides
+# Hackintosh-Mini-Guides
 Group of miscellaneous guides that don't need their own repo
 
 
